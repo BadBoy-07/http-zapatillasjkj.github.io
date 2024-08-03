@@ -174,5 +174,6 @@ a {
     /*estilos del footer*/
 
 footer {
+    flex: 1;
         position: static;
     }
